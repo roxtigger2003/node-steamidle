@@ -1,0 +1,11 @@
+{
+	"username":"",
+	"password": "",
+	"twofactorcode": "",
+	"gamestoplay": [730],
+	"bypasslimit":false,
+	"donotsort": false,
+	"sendautomessage": true,
+	"automessage": "I am currently AFK",
+	"silent": false
+}
