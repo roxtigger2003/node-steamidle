@@ -5,12 +5,8 @@ const fs = require('fs')
 
 if (fs.existsSync('./config.json')) {
   var config = require('./config.json')
-  if (!compareKeys(config, require('./config.example.json'))) {
-    log('Config file has been changed, please check config.example.json')
-    process.exit(1)
-  };
 } else {
-  log('Config file not present, please create one or copy it from config.example.json file')
+  log('Config file not present, please create one')
   process.exit(0)
 }
 
