@@ -22,7 +22,7 @@
   "author": "Aleš Kalan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SloRunner/node-steamidle/issues"
+    "url": "https://github.com/roxtigger2003/node-steamidle/issues"
   },
   "homepage": "https://github.com/SloRunner/node-steamidle#readme",
   "dependencies": {
